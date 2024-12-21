@@ -1,1 +1,1 @@
-UX/UI desingner
+UX/UI desingner & Front-end
